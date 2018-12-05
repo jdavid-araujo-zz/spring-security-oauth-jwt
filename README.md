@@ -27,4 +27,4 @@ or
  
  ```Import as maven by the IDE and run as Spring Boot App (make sure you have Spring Tools in the IDE)```
  
- That's it! The application can be accessed at http://localhost:8080.
+ That's it! The application Resource Serve can be accessed at http://localhost:8090 and Authorization Server at http://localhost:8080
